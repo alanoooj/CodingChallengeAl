@@ -1,0 +1,10 @@
+C:\Users\alexd\Desktop\CodingChallenge_Form\CodingChallenge_Form\bin\Debug\CodingChallenge_Form.exe.config
+C:\Users\alexd\Desktop\CodingChallenge_Form\CodingChallenge_Form\bin\Debug\CodingChallenge_Form.exe
+C:\Users\alexd\Desktop\CodingChallenge_Form\CodingChallenge_Form\bin\Debug\CodingChallenge_Form.pdb
+C:\Users\alexd\Desktop\CodingChallenge_Form\CodingChallenge_Form\obj\Debug\CodingChallenge_Form.csproj.AssemblyReference.cache
+C:\Users\alexd\Desktop\CodingChallenge_Form\CodingChallenge_Form\obj\Debug\CodingChallenge_Form.Form1.resources
+C:\Users\alexd\Desktop\CodingChallenge_Form\CodingChallenge_Form\obj\Debug\CodingChallenge_Form.Properties.Resources.resources
+C:\Users\alexd\Desktop\CodingChallenge_Form\CodingChallenge_Form\obj\Debug\CodingChallenge_Form.csproj.GenerateResource.cache
+C:\Users\alexd\Desktop\CodingChallenge_Form\CodingChallenge_Form\obj\Debug\CodingChallenge_Form.csproj.CoreCompileInputs.cache
+C:\Users\alexd\Desktop\CodingChallenge_Form\CodingChallenge_Form\obj\Debug\CodingChallenge_Form.exe
+C:\Users\alexd\Desktop\CodingChallenge_Form\CodingChallenge_Form\obj\Debug\CodingChallenge_Form.pdb
